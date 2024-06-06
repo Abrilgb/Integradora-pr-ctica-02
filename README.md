@@ -53,4 +53,10 @@ Este párrafo estará justificado utilizando la propiedad de alineación Este p�
 Justificado utilizando la propledad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este
 párrafo estará justificado utilizando la propiedad de alineación</p>
 
+#### 4, Testo Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+Si el toto que desaros enfatizar se encuentra de un parrafo, podenos utilizar algunos trucos para ubicarlos en la documentacion
+### Texto en Negrita (BOLD)
+Para poder porer el texto en negrita, este deberá ser encerrado entre " "
+testo Texto Texto Texto Texto Texto "Texto importante" Texto Texto Texto Texto Texto Texto Texto Texto Texto Terto Testo Terto Texto Texto Terto Texto TextoTexto Texto Texto Texto Texto Texto.
+
 
