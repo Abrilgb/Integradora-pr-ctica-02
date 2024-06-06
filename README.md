@@ -20,4 +20,37 @@ ignorado, s
 Si desea carcar una separación eás visual de contenidos pordemos utilizarlos indicando tres caractres "-" en el maquetado
 
 EJEMPLO:
-'Esto es sinflar a un tag de < HR >en HTML.
+'Esto es similar a un tag de < HR >en HTML.
+
+### 3. Párrafos (PARAGRAHS)
+Son utilizados para por presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
+EJEMPLO: Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este
+texto pertenece al párrafo 1.
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2Este texto pertenece al párrafo Este texto pertenece al párrafo
+2Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2Este texto pertenece al parrafo
+2Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2Este texto pertenece al párrafo
+LEste texto pertenece al parrafo 2Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2Este texto pertenece al párrafo Este texto pertenece al párrafo 2Este texto pertenece al parrafo
+2Este texto pertenece al párrafo 2
+
+Lo que en una página utilizarianos usando la etiqueta ‹ P ›.
+Tarbién podenos aplicar estilos básicos de alineación :
+
+Este párrafo está alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este párrafo está alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto
+<p align ="right">
+Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo esta al resto a la derecha utilizando la propiedad de alineación Este párrafo está alíneado a la derecha
+Etilizando la propledad de alineación Este parrafo esta alineado a la derecha utilizando la propiedad de alinación este párrafo esta alinado a la derecha utilizando la propiedad de alineación </p>
+
+<p align="center">
+Este párrafo esta centrado urando la propledad de alineación Este párrafo esta centrado usando la
+propledad de alleeacdon Este pirrafo esta centrado usando la propledad de alineacien Este parrafo
+esta centrado usando la propiedas de alineación Este párrafo esta centrado usando la propiedad de alfreación Este párrafo esta centrado usando la propiedad de alineación Este párrafo esta centrado usando la propiedas de alineación Este párrafo esta centrado usando la propiedad de alineación Este
+párrafo esta centrado usando la propledas de alineación Este párrafo esta centrado usando la
+propiedad de alineación</p>
+
+
+<p align= "justify">
+Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado vtllizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alíneacón Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará
+Justificado utilizando la propledad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este
+párrafo estará justificado utilizando la propiedad de alineación</p>
+
+
