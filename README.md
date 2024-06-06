@@ -13,4 +13,11 @@ Para poder realizar una buena documentación del proyecto deberos, distribuir co
 ###### Encabezado de Nivel 1 • Sinilar a M1 en HTMl
 ###### Encabezado de Nivel 1 • Sinilar a M1 en HTML
 ###### Encabezado de Nivel 1 • Sinilar a H1 en HTML
+###### Encabezado de nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado sera
+ignorado, s
 
+### 2. Separadores (SEPARATORS)
+Si desea carcar una separación eás visual de contenidos pordemos utilizarlos indicando tres caractres "-" en el maquetado
+
+EJEMPLO:
+'Esto es sinflar a un tag de < HR >en HTML.
