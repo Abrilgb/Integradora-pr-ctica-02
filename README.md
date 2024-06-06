@@ -4,15 +4,15 @@ En esta práctica aprenderemos a utilizar las herramientas Git y GitHub para el 
 Comandos Básicos para la Documentación, utilizando el estándar de Markdown (ad)
 Mariban es el estándar utilizado por Git y Github, para maquetar la docurentación de proyectos, lo que permite a usuardos y colaboradores del proyecto entender el contexto y operación del mismo.
 
-### 1. Encabezados o Tátulos (HEADERS)
+### 1. Encabezados o Titulos (HEADERS)
 Para poder realizar una buena documentación del proyecto deberos, distribuir correctamente los contenido, para poder delimitar o hacer énfasis (enfatizar), es decir resaltar las secciones importantes, podemos utilizar los siguiente:
-# Encabezado de Nivel 1 • Sinilar a H1 en HTML
-## Encabezado de Nável 1 • Sinilar a H1 en HTMl
-### Encabezado de Nivel 1 • Sinilar a Mi en HTML
-#### Encabezado de Nivel 1 • Sinilar a H1 en HTML
-###### Encabezado de Nivel 1 • Sinilar a M1 en HTMl
-###### Encabezado de Nivel 1 • Sinilar a M1 en HTML
-###### Encabezado de Nivel 1 • Sinilar a H1 en HTML
+# Encabezado de Nivel 1 • Similar a H1 en HTML
+## Encabezado de Nável 1 • Similar a H1 en HTMl
+### Encabezado de Nivel 1 • Similar a Mi en HTML
+#### Encabezado de Nivel 1 • Similar a H1 en HTML
+###### Encabezado de Nivel 1 • Similar a M1 en HTMl
+###### Encabezado de Nivel 1 • Similar a M1 en HTML
+###### Encabezado de Nivel 1 • Similar a H1 en HTML
 ###### Encabezado de nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado sera
 ignorado, s
 
