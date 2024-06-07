@@ -57,12 +57,21 @@ párrafo estará justificado utilizando la propiedad de alineación</p>
 Si el texto que deseaños enfatizar se encuentra de un parrafo, podenos utilizar algunos trucos para ubicarlos en la documentacion
 ### Texto en Negrita (BOLD)
 Para poder porer el texto en negrita, este deberá ser encerrado entre " "
-testo Texto Texto Texto Texto Texto "Texto" Texto Texto Texto Texto Texto Texto Texto Texto Texto Terto Testo Terto Texto Texto Terto Texto TextoTexto Texto Texto Texto Texto Texto.
+
+
+texto Texto Texto Texto Texto Texto " Texto " Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Terto Texto Texto Terto Texto Texto Texto Texto Texto Texto Texto Texto.
 
 ### ITALIC
+
+
 Para poner en cursiva 
+
+
+
 **EJEMPLO**
-texto texto 'texto' texto texto 
+
+
+texto texto ' texto ' texto texto 
 
 #### Subrayado (UNDERLINE)
 algunas veces necesitaremos subrayar texto dentro de la documentación, para ello, si bien markdown no tiene un atajo o codificación rápida podemos utilizar el estilo que use el estándar de HTML usando el tag /<ins> y cerrando con /</ins>.
