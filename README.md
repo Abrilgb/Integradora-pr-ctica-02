@@ -59,7 +59,7 @@ Si el texto que deseaños enfatizar se encuentra de un parrafo, podenos utilizar
 Para poder porer el texto en negrita, este deberá ser encerrado entre ** **
 
 
-texto Texto Texto Texto Texto Texto ** Texto ** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Terto Texto Texto Terto Texto Texto Texto Texto Texto Texto Texto Texto.
+texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Terto Texto Texto Terto Texto Texto Texto Texto Texto Texto Texto Texto.
 
 ### ITALIC
 
@@ -79,7 +79,7 @@ algunas veces necesitaremos subrayar texto dentro de la documentación, para ell
 **EJEMPLO**
 
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
-TEXTO TEXTO TEXTO TEXTO "TEXTO Cursivo" TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
+TEXTO TEXTO TEXTO TEXTO *TEXTO Cursivo* TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <ins> TEXTO Subrayado < ins> TEXTO 
 
