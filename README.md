@@ -83,8 +83,7 @@ TEXTO TEXTO TEXTO TEXTO *TEXTO Cursivo* TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO <ins> TEXTO Subrayado < ins> TEXTO 
 
-#Integradora practica 03
-
+# Integradora practica 03
 
 Continuamos con los comandos básicos de Git y GitHub para el maquetado de la documentación 
 
@@ -93,6 +92,7 @@ Continuamos con los comandos básicos de Git y GitHub para el maquetado de la do
 Estos elementos son utilizados para resaltar instrucciones especificas para la instalación, configuración y/o inicializar mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (>). 
 
 **EJEMPLO**
+
 Para listar las carpetas y archivos es desde una terminal de sistema operativo Windows debemos ingresar el comando:
 
 C:/dir
