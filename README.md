@@ -126,21 +126,30 @@ síes en nuestra documentación necesitamos incluir información de texto en mod
 
 
 **EJEMPLO**
+
   Para poder crear tu primero repositorio en GitHub deveras;
-1. Contar con una cuenta GitHub 
+  
+1. Contar con una cuenta GitHub
+   
 2.Dar clic en el botón **Nuevo Repositorio*
+
 3.Asignarle un nombre a tu repositorio, por ejemplo: 'ptactica03-3b'
+
 4.Asignarle un nivel de privacidad entre 
 
 -**PUBLICO** Si quieres que este disponible para todos los usuarios.
+
 -**PRIVADO** Si deseas que solo a quien decidas puedan colaborar con tu proyecto.
 
 10.Definir si incluye un archivo de descripción llamado: *README.md*
+
 11.Definir si habrá exclusiones de archivo a través del archivo a través del archivo : *gitignore*
+
 7. Guardar los cambios 
 
 
 #### 7. Ligas (Hipervínculos)
+
 las ligas utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando lo corchetes \[ \], inmediatamente después pondremos la liga de referencia entre paréntesis /()
 
 **EJEMPLO**
