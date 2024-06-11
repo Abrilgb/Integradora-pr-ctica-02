@@ -2,12 +2,13 @@
 En esta práctica aprenderemos a utilizar las herramientas Git y GitHub para el control de Versiones, Documentación, Desarrollo Colaborativo y Respaldo del Proyecto Integrador para la asgnatura de Integradora 1
 
 
-##Comandos Básicos para la Documentación, utilizando el estándar de Markdown (ad)
+## Comandos Básicos para la Documentación, utilizando el estándar de Markdown (ad)
 
 Mariban es el estándar utilizado por Git y Github, para maquetar la docurentación de proyectos, lo que permite a usuarios y colaboradores del proyecto entender el contexto y operación del mismo.
 
 ### 1. Encabezados o Titulos (HEADERS)
 Para poder realizar una buena documentación del proyecto deberos, distribuir correctamente los contenido, para poder delimitar o hacer énfasis (enfatizar), es decir resaltar las secciones importantes, podemos utilizar los siguiente:
+
 # Encabezado de Nivel 1 • Similar a H1 en HTML
 ## Encabezado de Nivel 1 • Similar a H1 en HTMl
 ### Encabezado de Nivel 1 • Similar a Mi en HTML
@@ -15,13 +16,12 @@ Para poder realizar una buena documentación del proyecto deberos, distribuir co
 ###### Encabezado de Nivel 1 • Similar a M1 en HTMl
 ###### Encabezado de Nivel 1 • Similar a M1 en HTML
 ###### Encabezado de Nivel 1 • Similar a H1 en HTML
-###### Encabezado de nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado sera
-ignorado, s
+###### Encabezado de nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado sera ignorado
 
 ### 2. Separadores (SEPARATORS)
 Si desea carcar una separación eás visual de contenidos pordemos utilizarlos indicando tres caractres "-" en el maquetado
 
-EJEMPLO:
+**EJEMPLO**
 'Esto es similar a un tag de <HR> en HTML.
 
 ### 3. Párrafos (PARAGRAHS)
