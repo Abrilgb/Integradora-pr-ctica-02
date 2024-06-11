@@ -19,10 +19,10 @@ Para poder realizar una buena documentación del proyecto deberos, distribuir co
 ###### Encabezado de nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado sera ignorado
 
 ### 2. Separadores (SEPARATORS)
-Si desea carcar una separación eás visual de contenidos pordemos utilizarlos indicando tres caractres "-" en el maquetado
+Si desea carcar una separación visual de contenidos pordemos utilizarlos indicando tres caractres "-" en el maquetado
 
 **EJEMPLO**
-'Esto es similar a un tag de <HR> en HTML.
+'Esto es similar a un tag de <HR> en HTML.'
 
 ### 3. Párrafos (PARAGRAHS)
 Son utilizados para por presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
