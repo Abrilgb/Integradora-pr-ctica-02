@@ -1,5 +1,5 @@
 # Integradora-pr-ctica-02
-En esta práctica aprenderemos a utilizar las herramientas Git y GitHub para el control de Versiones, Documentación, Desarrollo Colaborativo y Respaldo del Proyecto Integrador para la asgnatura de Integradora 1
+En esta práctica aprenderemos a utilizar las herramientas Git y GitHub para el control de Versiones, Documentación, Desarrollo Colaborativo y Respaldo del Proyecto Integrador para la asgnatura de Integradora 1.
 
 
 ## Comandos Básicos para la Documentación, utilizando el estándar de Markdown (ad)
@@ -156,7 +156,7 @@ las ligas utilizadas para vincular elementos o referencias del proyecto dentro d
 
 Mi buscador favorito es: [www.google.com]/(https://www.google.com)
 
-Pero si deseasa poner solo las ligas directas a un correo electrónico podemos utilizar los símbolos \<\>
+Pero si deseasa poner solo las ligas directas a un correo electrónico podemos utilizar los símbolos \<\>,3
 
 **EJEMPLO**
 
