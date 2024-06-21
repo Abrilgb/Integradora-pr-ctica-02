@@ -177,7 +177,7 @@ Si la documentacion requiere incorporar imágenes, esquemas, modelos, fotografia
 
 **Ejemplo**
 
-![Snrlax](https://github.com/Abrilgb/blob/main/img.png.jpeg)
+![Snrlax](https://github.com/Abrilgb/master/main/img.png.jpeg)
 
 
 #### 9.Tables (TABLES)
