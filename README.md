@@ -171,5 +171,15 @@ Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. El t
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+#### 8.1 Imagenes 
+
+Si la documentacion requiere incorporar imágenes, esquemas, modelos, fotografias o cualquier representación gráfica, utilizaremos la estructura de la liga, maquetando el nombre de la imagen entre un signo de admiración de cierre y la liga de referencia a la imagen usando paréntesis.
+
+**Ejemplo**
+
+![Mariposa](https://github.com/RufinoAngel/Integradora-3B-Practica2/blob/main/mariposa.jpg)
+
+
+
 
 
