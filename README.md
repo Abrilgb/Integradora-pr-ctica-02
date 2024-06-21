@@ -177,7 +177,7 @@ Si la documentacion requiere incorporar imágenes, esquemas, modelos, fotografia
 
 **Ejemplo**
 
-![Mariposa](https://github.com/RufinoAngel/Integradora-3B-Practica2/blob/main/mariposa.jpg)
+![Snorlax](https://github.com/Abrilgb/integradora-pr-ctica-02/blob/main/img.png)
 
 #### 9.Tables (TABLES)
 Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para poder etiquetarlas podemos utilizar el caracter \ | para delimitar las filas.
