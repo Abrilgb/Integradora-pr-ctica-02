@@ -160,7 +160,7 @@ Pero si deseasa poner solo las ligas directas a un correo electrónico podemos u
 
 **EJEMPLO**
 
-Documentación creada por: ***Abril Guzman Barrera*** (<aguzm347@gmail.om>)
+Documentación creada por: ***Abril Guzmán Barrera*** (<aguzm347@gmail.om>)
 
 (<http://www.utxicotepec.edu.mx>)
 
