@@ -179,6 +179,73 @@ Si la documentacion requiere incorporar imágenes, esquemas, modelos, fotografia
 
 ![Mariposa](https://github.com/RufinoAngel/Integradora-3B-Practica2/blob/main/mariposa.jpg)
 
+#### 9.Tables (TABLES)
+Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para poder etiquetarlas podemos utilizar el caracter \ | para delimitar las filas.
+
+*Ejemplo:*
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|--------------|--------------|--------------|--------------|
+|Fila 1 celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 celda 1|Fila 2 celda 2|Fila 2 celda 3|Fila 2 celda 4|
+|Fila 3 celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+
+En el caso de la función de celda en columnas usaremos la propiedad "colspan" del tag \<td> y el caso de necesitar la funcion de las filas utilizaremos la propiedad "rowspan".
+
+*Ejemplo*
+
+| Encabezado 1 | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|--------------|--------------|--------------|--------------|
+|Fila 1 celda 1|Fila 1 celda 2|Fila 1 celda 3|Fila 1 celda 4|
+|Fila 2 celda 1 <tb colspan=2>|Fila 2 celda 2|Fila 2 celda 3|Fila 2 celda 4|
+|Fila 3 celda 1|Fila 3 celda 2|Fila 3 celda 3|Fila 3 celda 4|
+|              |Fila 4 celda 2|Fila 4 celda 3|Fila 4 celda 4|
+|              |Fila 5 celda 2|Fila 5 celda 3|Fila 5 celda 4|
+|Fila 6 celda 1|Fila 6 celda 2|Fila 6 celda 3|Fila 6 celda 4|
+
+Dado que en el ejemplo pasado usamos markdown no se puede realizar la fusion de las filas debemos utilizar el estandar de HTML, usando los tags \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan"
+<table>
+ <tr>
+ <th>Encabezado 1</th>
+ <th>Encabezado 2</th>
+ <th>Encabezado 3</th>
+ <th>Encabezado 4</th>
+ </tr>
+ <tr>
+    <td>Fila 1 Celda 1 </td>
+    <td>Fila 1 Celda 2</td>
+    <td>Fila 1 Celda 3 </td>
+    <td>Fila 1 Celda 4</td>
+ </tr>
+    <tr>
+       <td>Fila 2 celda 1</td>
+       <td colspan=3 aling="center">Fila 2 Celda 2</td>
+    </tr>
+    <tr>
+       <td rowspan=3 aling="center">Fila 3 celda 1</td>
+       <td>Fila 3 celda 2</td>
+       <td>Fila 3 celda 3</td>
+       <td>Fila 3 celda 4</td>
+    </tr>
+    <tr>
+       <td>Fila 4 celda 2</td>
+       <td>Fila 4 celda 3</td>
+       <td>Fila 4 celda 4</td>
+    </tr>
+    <tr>
+       <td>Fila 5 celda 2</td>
+       <td>Fila 5 celda 3</td>
+       <td>Fila 5 celda 4</td>
+    </tr>
+    <tr>
+       <td>Fila 6 celda 1</td>
+       <td>Fila 6 celda 2</td>
+       <td>Fila 6 celda 3</td>
+       <td>Fila 6 celda 4</td>
+    </tr>
+</table>
+//////////////////////////////////////////////////////////////////////////////////////////////
+
 
 
 
